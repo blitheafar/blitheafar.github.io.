@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "firebase": "^11.3.1"
+  },
+  "name": "blitheafar.github.io.",
+  "version": "1.0.0",
+  "description": "whether-weather是一款天气应用，使用原生js实现   内置React实现的最新地震应用，在文件夹earthquake中   earthquake应用使用React+material-ui+react-router+react-amap   *tictactoe文件夹为React井字棋demo*",
+  "main": "index.js",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blitheafar/blitheafar.github.io..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/blitheafar/blitheafar.github.io./issues"
+  },
+  "homepage": "https://github.com/blitheafar/blitheafar.github.io.#readme"
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Firebase Demo</title>
+  <script src="js/app.js"></script>
+</head>
+<body>
+  <h1>库存管理系统</h1>
+  <div id="data-container"></div>
+
+  <div class="form">
+    <input type="text" id="itemName" placeholder="商品名称">
+    <input type="number" id="itemStock" placeholder="库存数量">
+    <button onclick="addItem()">添加商品</button>
+  </div>
+  
+  <script>
+  // 表单提交处理
+  function addItem() {
+    const name = document.getElementById('itemName').value;
+    const stock = parseInt(document.getElementById('itemStock').value);
+    
+    if(name && stock) {
+      itemsRef.add({ name, stock })
+        .then(() => {
+          document.getElementById('itemName').value = '';
+          document.getElementById('itemStock').value = '';
+        });
+    }
+  }
+  </script>
+  <!-- <script src="js/config.js"></script> -->
+  <!-- <script src="js/app.js"></script> -->
+</body>
+</html>
