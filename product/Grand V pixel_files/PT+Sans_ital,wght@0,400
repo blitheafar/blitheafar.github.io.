@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'PT SansOmnisend';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3B0c2Fucy92MTcvaml6WVJFeFVpVG85OXU3OUQwZUV3dy53b2Zm) format('woff');
+}
+@font-face {
+  font-family: 'PT SansOmnisend';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3B0c2Fucy92MTcvaml6ZFJFeFVpVG85OXU3OUQwZThmT3l0S3cud29mZg==) format('woff');
+}
+@font-face {
+  font-family: 'PT SansOmnisend';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3B0c2Fucy92MTcvaml6YVJFeFVpVG85OXU3OVAwWS53b2Zm) format('woff');
+}
+@font-face {
+  font-family: 'PT SansOmnisend';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL3B0c2Fucy92MTcvaml6ZlJFeFVpVG85OXU3OUJfbWg0T28ud29mZg==) format('woff');
+}

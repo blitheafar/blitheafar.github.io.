@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'MontserratOmnisend';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21vbnRzZXJyYXQvdjI5L0pUVUZqSWcxX2k2dDhrQ0hLbTQ1OVd4N3hRWVhLMHZPb3o2anE2UjlhWHcud29mZg==) format('woff');
+}
+@font-face {
+  font-family: 'MontserratOmnisend';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21vbnRzZXJyYXQvdjI5L0pUVUZqSWcxX2k2dDhrQ0hLbTQ1OVd4N3hRWVhLMHZPb3o2anEwTjZhWHcud29mZg==) format('woff');
+}
+@font-face {
+  font-family: 'MontserratOmnisend';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21vbnRzZXJyYXQvdjI5L0pUVUhqSWcxX2k2dDhrQ0hLbTQ1MzJWSk90NS1RTkZncEN0cjZFdzkud29mZg==) format('woff');
+}
+@font-face {
+  font-family: 'MontserratOmnisend';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.soundestlink.com/fonts/static/aHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbS9zL21vbnRzZXJyYXQvdjI5L0pUVUhqSWcxX2k2dDhrQ0hLbTQ1MzJWSk90NS1RTkZncEN1TTcwdzkud29mZg==) format('woff');
+}
