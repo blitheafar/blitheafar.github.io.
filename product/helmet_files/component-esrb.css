@@ -1,0 +1,19 @@
+.product-esrb {
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  display: flex;
+}
+
+.product-esrb img {
+  height: 68px;
+}
+
+.product-esrb span {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-size: 0.75rem;
+  justify-content: flex-start;
+  margin-left: 5px;
+  margin-right: 5px;
+}
