@@ -1,0 +1,24 @@
+wishlist-button-block .wk-button,
+wishlist-button-block .wk-button:hover {
+  min-height: var(--button-min-height);
+  padding: var(--button-padding);
+  margin-top: var(--button-margin-top);
+  margin-bottom: var(--button-margin-bottom);
+  color: var(--button-color);
+  background: var(--button-background);
+  border: var(--button-border);
+  border-radius: var(--button-border-radius);
+  gap: 7px;
+  box-shadow: none;
+  max-width: var(--button-max-width);
+  font-size: calc(var(--wk-font-text-scale) * 100%);
+  font-family: inherit;
+}
+
+wishlist-button-block .wk-button .wk-icon {
+  top: var(--icon-offset-vertical);
+}
+
+wishlist-button-block .wk-button.wk-selected {
+  --icon-fill: var(--icon-stroke);
+}

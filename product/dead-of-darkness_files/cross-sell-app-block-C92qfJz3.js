@@ -1,0 +1,1 @@
+import{E as p,u as s,O as e}from"./stylex-BPJ83WxD.js";import{A as r}from"./AppBlock-Cb9hFJJf.js";const l=o=>s(r,{liquidProps:o,offerType:e.CROSS_SELL});p(l,"essential-upsell-cross-sell-app-block",["upsellAppData","productPageProduct","productPageCollectionIds","cartItems","firstShopProductId","shopMoneyFormat"]);

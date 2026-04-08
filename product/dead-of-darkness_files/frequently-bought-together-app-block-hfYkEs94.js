@@ -1,0 +1,1 @@
+import{E as e,u as t,O as p}from"./stylex-BPJ83WxD.js";import{A as r}from"./AppBlock-Cb9hFJJf.js";const a=o=>t(r,{liquidProps:o,offerType:p.FREQUENTLY_BOUGHT_TOGETHER});e(a,"essential-upsell-frequently-bought-together-app-block",["upsellAppData","productPageProduct","productPageCollectionIds","cartItems","firstShopProductId","shopMoneyFormat"]);
